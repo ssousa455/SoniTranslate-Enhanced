@@ -1,3 +1,4 @@
+[English Version]([https://github.com/R3gm/SoniTranslate](https://github.com/ssousa455/SoniTranslate-Enhanced/blob/main/README-en.md))
 # SoniTranslate-Enhanced: Dublagem de Vídeos Simplificada
 
 Este projeto aprimora o excelente [SoniTranslate](https://github.com/R3gm/SoniTranslate) para dublagem de vídeos, oferecendo uma experiência ainda mais simples e segura no Google Colab.
