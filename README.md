@@ -24,9 +24,8 @@ Basta clicar no botão acima para iniciar a dublagem diretamente no seu Google C
 ## Como Usar:
 
 1. Clique no botão "Open In Colab" acima.
-2. Carregue seu vídeo na pasta `/content` do Colab.
-3. Forneça sua chave de acesso do Hugging Face quando solicitado.
-4. Aguarde a conclusão do processo.  Os arquivos dublados serão salvos em `/content/SoniTranslate/outputs` e copiados para sua pasta "Dubbing" no Google Drive.
+2. Forneça sua chave de acesso do Hugging Face quando solicitado.
+3. Aguarde a conclusão do processo.  Os arquivos dublados serão salvos em `/content/SoniTranslate/outputs` e copiados para sua pasta "Dubbing" no Google Drive.
 
 
 ## Contribuições:
@@ -35,7 +34,7 @@ Contribuições são bem-vindas! Abra issues ou envie pull requests.
 
 ## Licença:
 
-[Especifique a licença do seu projeto. MIT é uma boa opção.]
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Agradecimentos:
 
