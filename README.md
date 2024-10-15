@@ -11,15 +11,8 @@ Basta clicar no botão acima para iniciar a dublagem diretamente no seu Google C
 
 ## Melhorias em relação ao SoniTranslate original:
 
-* **Segurança de Dados Garantida:**  Seus arquivos dublados são automaticamente copiados para o seu Google Drive, mesmo se o Colab for interrompido.
+* **Segurança de Dados Garantida:**  Seus arquivos dublados são automaticamente copiados para o seu Google Drive, mesmo se o Colab for interrompido. :smiley:
 * **Instalação e Execução Aceleradas:**  O processo de configuração e dublagem é significativamente mais rápido.
-
-
-## Funcionalidades:
-
-* Dublagem de vídeos com tradução automática.
-* Síntese de voz de alta qualidade.
-* Cópia automática para o Google Drive. :smiley:
 
 
 ## Pré-requisitos:
