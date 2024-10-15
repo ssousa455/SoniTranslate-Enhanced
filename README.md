@@ -13,7 +13,7 @@ Este projeto é uma versão aprimorada do excelente [SoniTranslate](https://gith
 
 ## 🚀 Acesso Rápido
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssousa455/SoniTranslate-Enhanced/blob/main/untitled6.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssousa455/SoniTranslate-Enhanced/blob/main/SoniTranslate-Enhanced.ipynb)
 
 
 ## Funcionalidades:
