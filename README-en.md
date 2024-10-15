@@ -12,7 +12,7 @@ Simply click the button above to start dubbing directly in your Google Colab!
 ## Improvements over the original SoniTranslate:
 
 * **Guaranteed Data Security:** Your dubbed files are automatically copied to your Google Drive, even if Colab is interrupted. :smiley:
-* **Faster Installation and Execution:** The setup and dubbing process is significantly faster.
+* **Faster Installation and Execution:** The program restarts significantly faster after Colab shuts down.
 
 
 ## Prerequisites:
