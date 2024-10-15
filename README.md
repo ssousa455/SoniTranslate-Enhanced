@@ -8,12 +8,12 @@ Este projeto aprimora o excelente [SoniTranslate](https://github.com/R3gm/SoniTr
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssousa455/SoniTranslate-Enhanced/blob/main/SoniTranslate-Enhanced.ipynb)
 
 
-Basta clicar no botão acima para iniciar a dublagem diretamente no seu Google Colab!
+Basta clicar no botão acima para iniciar o programa diretamente no seu Google Colab!
 
 ## Melhorias em relação ao SoniTranslate original:
 
 * **Segurança de Dados Garantida:**  Seus arquivos dublados são automaticamente copiados para o seu Google Drive, mesmo se o Colab for interrompido. :smiley:
-* **Instalação e Execução Aceleradas:**  O processo de configuração e dublagem é significativamente mais rápido.
+* **Instalação e Execução Aceleradas:**  O programa reinicia significativamente mais rápido após o encerramento do Colab.
 
 
 ## Pré-requisitos:
