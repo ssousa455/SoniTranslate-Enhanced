@@ -4,9 +4,9 @@ Este projeto é uma versão aprimorada do excelente [SoniTranslate](https://gith
 
 ## Melhorias em relação ao SoniTranslate original:
 
-* **Cópia automática para o Google Drive:** Os arquivos de áudio dublados são copiados automaticamente para a sua pasta "Dubbing" no Google Drive, mesmo se o processo for interrompido.  Isso elimina a preocupação com a perda de dados.
-* **Melhorias de desempenho na instalação:** O código agora verifica a existência de pacotes antes de instalá-los, evitando reinstalações desnecessárias e reduzindo significativamente o tempo de configuração.  A instalação de dependências é agora mais robusta e eficiente.
-* **Tratamento de interrupções:** O código inclui um bloco `try...except...finally` para garantir que os arquivos sejam copiados para o Google Drive mesmo se a execução for interrompida manualmente (por exemplo, com Ctrl+C) ou por um erro inesperado.
+* **Segurança de Dados Garantida:**  Diga adeus à perda de arquivos!  Esta versão inclui um mecanismo robusto de cópia para o Google Drive, usando `shutil.copy2`, que garante a transferência completa dos arquivos `.mp4` dublados para a sua pasta "Dubbing" no Google Drive.  O bloco `try...except...finally` garante que a cópia seja feita mesmo em caso de interrupção da execução, seja por erro ou manualmente (Ctrl+C).  Seu trabalho está sempre seguro.
+
+* **Instalação e Execução Aceleradas:**  O tempo de instalação e preparação foi drasticamente reduzido!  O código agora verifica a existência de cada pacote (`chex`, `pandas-stubs`, `ibis-framework`, etc.) antes de instalá-lo usando `os.path.exists`.  Isso evita reinstalações desnecessárias e otimiza a utilização de recursos, resultando em um processo significativamente mais rápido e eficiente.
 
 
 ## 🚀 Acesso Rápido
