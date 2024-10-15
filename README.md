@@ -1,6 +1,4 @@
 # SoniTranslate-Enhanced
-Versão aprimorada do SoniTranslate com cópia automática para o Google Drive e melhorias de desempenho
-# SoniTranslate-Enhanced
 
 Este projeto é uma versão aprimorada do excelente [SoniTranslate](https://github.com/R3gm/SoniTranslate).  Ele mantém todas as funcionalidades originais, adicionando melhorias significativas para facilitar o uso e garantir a segurança dos seus arquivos dublados.
 
