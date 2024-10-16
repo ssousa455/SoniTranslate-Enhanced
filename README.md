@@ -13,6 +13,8 @@ Basta clicar no botão acima para iniciar o programa diretamente no seu Google C
 ## Melhorias em relação ao SoniTranslate original:
 
 * **Segurança de Dados Garantida:**  Seus arquivos dublados são automaticamente copiados para o seu Google Drive, mesmo se o Colab for interrompido. :smiley:
+<img src="https://img001.prntscr.com/file/img001/wtC-KY3aRKaQ_wPmzQRzKg.png" width="950" height="529" alt="Descrição da imagem">
+
 * **Instalação e Execução Aceleradas:**  O programa reinicia significativamente mais rápido após o encerramento do Colab.
 
 
@@ -40,5 +42,6 @@ Contribuições são bem-vindas! Abra issues ou envie pull requests.
 ## Agradecimentos:
 
 * R3gm pelo projeto original SoniTranslate.
+* Poe.com pelo suporte e auxílio no desenvolvimento.
 
 **Dê uma estrela ⭐ para este projeto para mostrar seu apoio!**
