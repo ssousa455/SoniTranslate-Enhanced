@@ -1,4 +1,4 @@
-[English version](https://github.com/ssousa455/SoniTranslate-Enhanced/blob/main/README-en.md)
+[Read this in English](https://github.com/ssousa455/SoniTranslate-Enhanced/blob/main/README-en.md)
 # SoniTranslate-Enhanced: Dublagem de Vídeos Simplificada
 
 Este projeto aprimora o excelente [SoniTranslate](https://github.com/R3gm/SoniTranslate) para dublagem de vídeos, oferecendo uma experiência ainda mais simples e segura no Google Colab.
@@ -28,7 +28,8 @@ Basta clicar no botão acima para iniciar o programa diretamente no seu Google C
 
 1. Clique no botão "Open In Colab" acima.
 2. Forneça sua chave de acesso do Hugging Face quando solicitado.
-3. Aguarde a conclusão do processo.  Os arquivos dublados serão salvos em `/content/SoniTranslate/outputs` e copiados para sua pasta "Dubbing" no Google Drive.
+3. **IMPORTANTE:** Após a instalação das dependências (célula 2), você precisará reexecutar essa célula para garantir que todas as dependências sejam corretamente carregadas e resolvidos eventuais conflitos.
+4. Aguarde a conclusão do processo.  Os arquivos dublados serão salvos em `/content/SoniTranslate/outputs` e copiados para sua pasta "Dubbing" no Google Drive.
 
 
 ## Contribuições:
@@ -42,6 +43,7 @@ Contribuições são bem-vindas! Abra issues ou envie pull requests.
 ## Agradecimentos:
 
 * R3gm pelo projeto original SoniTranslate.
-* Poe.com pelo suporte e auxílio no desenvolvimento.
+* [Poe.com](https://poe.com/) pelo suporte e auxílio no desenvolvimento.
 
 **Dê uma estrela ⭐ para este projeto para mostrar seu apoio!**
+"
