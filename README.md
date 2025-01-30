@@ -5,7 +5,7 @@ Este projeto aprimora o excelente [SoniTranslate](https://github.com/R3gm/SoniTr
 
 ## 🚀 Execute Agora Mesmo!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssousa455/SoniTranslate-Enhanced/blob/main/SoniTranslate-Enhanced.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssousa455/SoniTranslate-Enhanced/blob/main/SoniTranslate_Enhanced.ipynb)
 
 
 Basta clicar no botão acima para iniciar o programa diretamente no seu Google Colab!
